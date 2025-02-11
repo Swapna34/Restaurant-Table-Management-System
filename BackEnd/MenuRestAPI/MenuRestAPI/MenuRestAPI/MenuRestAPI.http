@@ -1,0 +1,6 @@
+@MenuRestAPI_HostAddress = http://localhost:5148
+
+GET {{MenuRestAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
